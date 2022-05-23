@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @katyhagen
 - 👀 I’m interested in ...
--         🚀javaScript
--         🔥devOps
+         🚀javaScript
+         🔥devOps
           🐍python
           ❤️sql 
           🍏ios
