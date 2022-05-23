@@ -1,5 +1,15 @@
 - 👋 Hi, I’m @katyhagen
 - 👀 I’m interested in ...
+-         🚀javaScript
+          🐍python
+          ❤️sql 
+          🍏ios
+          🐌Swift
+          🪒c#
+          🌇 Vue
+          🤝Angular
+          🐈AngularJS
+          🧟Coldfusion
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
